@@ -2,6 +2,8 @@ Cài đặt:
 -Git: https://git-scm.com/
 -Composer: https://getcomposer.org/
 -WampServer: https://sourceforge.net/projects/wampserver/
+-Cài đặt Visual Studio Code: https://code.visualstudio.com/
+
 
 Hướng Dẫn tải và cài đặt và chạy project
 -Chọn vị trí muốn tải project về và mở CMD lên
